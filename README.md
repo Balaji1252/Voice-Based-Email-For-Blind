@@ -1,6 +1,6 @@
 #Voicemail  
   
-####__*Voice Based Email for (Blinds?)*__
+####__*Voice Based Email for Visually Impaired Persons
 
 ###Description:ledger:    
 Voicemail is an android application designed for blinds to send mails by recognising their voice! Voicemail is smart enough to talk with users. Initially, it speaks a welcome message & afterwards, allows user to induce their answer. Certain commands like To, Subject, Message, Send, Cancel are implemented with user friendly interaction talks.  
