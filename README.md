@@ -1,4 +1,3 @@
-![Voicemail Logo](/app/src/main/res/drawable/Icon.png)  
 #Voicemail  
   
 ####__*Voice Based Email for (Blinds?)*__
