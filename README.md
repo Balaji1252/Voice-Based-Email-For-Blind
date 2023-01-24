@@ -1,11 +1,11 @@
-📩Voicemail  
+📩VoiceEmail  
   
 __*Voice Based Email for Visually Impaired Persons*__
 
-⚡️ Description:ledger:
+⚡️Description:ledger:
 Voicemail is an android application designed for visually impaired peoples to send mails by recognising their voice! Voicemail is smart enough to talk with users. Initially, it speaks a welcome message & afterwards, allows user to induce their answer. Certain commands like To, Subject, Message, Send, Cancel are implemented with user friendly interaction talks.  
   
-💪🏻How it works:question:  
+💪🏻 How it works:question:  
 Just tap on the screen to answer the corresponding question framed by Voicemail. After answering all the questions, Voicemail asks for confirmation, just say Yes and you are good to go! It will automatically send mail without gmail app interaction interface.  
   
   
